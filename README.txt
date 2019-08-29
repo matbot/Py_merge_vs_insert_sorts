@@ -1,10 +1,5 @@
 Author: Mathew McDade
 Date: 1/13/2019
-Class: CS325.400 Winter 2019
-Assignment: HW 1
-
--Unzip the program files:
-    1. From the command line: $ unzip hw1.zip
 
 -In order to run the two proof of function programs, insertionsort.py and mergesort.py:
     1. Make sure the two program files are located in a folder with the data.txt file containing integers to be sorted.
